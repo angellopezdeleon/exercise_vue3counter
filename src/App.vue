@@ -41,7 +41,7 @@
 }
 
 small {
-  color: crimson;
+  color: darkgrey;
 }
 
 h1 {
